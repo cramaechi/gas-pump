@@ -7,9 +7,9 @@ using namespace std;
 
 int main()
 {
-	GasPump pump;
-	pump.input();
-	pump.output();
-	
-	return 0;
+    GasPump pump;
+    pump.input();
+    pump.output();
+
+    return 0;
 }
